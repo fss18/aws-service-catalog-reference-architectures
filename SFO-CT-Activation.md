@@ -1,4 +1,4 @@
-# Prerequisite
+# Prerequisites
 Launch Cloud9 and run everything via Cloud9
 Select:
 * Create a new instance for environment (EC2)
